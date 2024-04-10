@@ -1,0 +1,17 @@
+{
+  "name": "sql-injection-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^9.4.5",
+    "express": "^4.19.2"
+  }
+}
